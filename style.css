@@ -1,0 +1,51 @@
+*{
+margin: 0;
+padding: 0;
+}
+
+.container1{
+ background-image: linear-gradient(to right, red , yellow); 
+ height: 100vh;
+ width: 1250px;
+ border: 4px solid black;
+ display:flex;
+ text-align: center;
+ justify-content: center;
+ align-items: center;
+}
+.container2{
+ background-color: #f8ef42;
+background-image: linear-gradient(315deg, #f8ef42 0%, #0fd64f 74%);
+
+  border: 4px solid black;
+  height :15rem;
+  width:22rem;
+  border-radius: 20px;
+}
+
+.button{
+  height: 4rem;
+  width: 8rem;
+  margin: 1rem;
+   border-radius: 30px;
+   background: orangered;
+  font-weight:700;
+  
+}
+.count{
+  margin: 1rem;
+  font-size: 2rem;
+  color: midnightblue;
+  
+}
+
+div >h1{
+  margin: 1rem;
+ 
+}
+ .hr{
+  border: 2px solid navy;
+  border-radius: 15px;
+}
+
+
